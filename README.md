@@ -26,7 +26,7 @@ System v1.2.3 [STABLE]
 Initializing Core...
 [██████████] 100%
 
-- Operator: Isabel Rocha
+- Operator: Isabel Rocha Batista 
 - Focus: ADS @ UNASP
 - Status: ONLINE
 - Theme: Cyberpunk Lilás & Preto
