@@ -27,18 +27,11 @@
 
 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Estou aprendendo programação e desenvolvendo projetos para colocar em prática meus conhecimentos.
 
-## 💻 Meus projetos
+<div align="center">
 
-- 🎮 Portfólio interativo com jogos
-- ☕ Estudos e projetos em Java
-- 🧠 Lógica de Programação
-- ⚙️ Sistemas Operacionais
+![Dinosaur Runner](dinossauro_runner_neon.gif)
 
-## 🚀 Em evolução
-
-- Aprendendo a programar
-- Praticando e construindo projetos
-- Transformando ideias em código
+</div>
 
 ---
 
